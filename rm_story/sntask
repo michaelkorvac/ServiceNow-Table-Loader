@@ -1,0 +1,5 @@
+/*
+
+short_description:changing the story to come from github
+*/
+const stryGr = new GlideRecord('rm_story');
