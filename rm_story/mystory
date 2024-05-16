@@ -1,0 +1,5 @@
+/*
+
+short_description: my story for demo
+*/
+const stryGr = new GlideRecord('rm_story');
